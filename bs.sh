@@ -9,24 +9,24 @@ ARRAY1=("implement" "scale" "disrupt" "utilize" "integrate" "streamline" "optimi
 "envisioneer" "monetize" "harness" "facilitate" "seize" "disintermediate" "synergize" "strategize" "deploy"
 "brand" "grow" "target" "syndicate" "synthesize" "deliver" "mesh" "incubate" "engage" "maximize" "benchmark"
 "expedite" "reintermediate" "whiteboard" "visualize" "repurpose" "innovate" "scale" "unleash" "drive" "extend"
-"engineer" "revolutionize" "generate" "exploit" "transition" "e-enable" "iterate" "cultivate" "matrix"
-"productize" "redefine"
-"recontextualize")
+"engineer" "revolutionize" "generate" "exploit" "transition" "iterate" "cultivate" "matrix" "analyze"
+"productize" "redefine" "terraform" "recontextualize" "replicate" "script")
 
 ARRAY2=("blockchain" "IdP" "vertical" "proactive" "robust" "revolutionary" "organic" "scalable"
-"bleeding-edge" "innovative" "intuitive" "strategic" "kuztomize" "mission-critical" "hybrid-cloud" "one-to-one" "end-to-end" "global" "highly-dynamic" "granular" "frictionless" "virtual" "viral" "dynamic" "24/365"
-"best-of-breed" "killer" "solid-state" "web-enabled" "interactive" "backend" "big data" "back-end"
-"real-time" "efficient" "front-end" "distributed" "AI-enabled" "extensible" "API"
+"bleeding-edge" "innovative" "intuitive" "strategic" "mission-critical" "hybrid-cloud" "one-to-one" "end-to-end" "global" "highly-dynamic"
+"granular" "frictionless" "virtual" "viral" "dynamic" "multi-factor"
+"best-of-breed" "killer" "solid-state" "interactive" "backend" "big data" "back-end"
+"real-time" "efficient" "distributed" "AI-enabled" "extensible" "Fanatical"
 "open-source" "cross-platform" "zero-trust" "synergistic" "penetration testing" "out-of-the-box" "enterprise"
-"integrated" "impactful" "CCPA" "transparent" "next-generation" "cutting-edge" "DevSecOps" "visionary"
+"integrated" "impactful" "transparent" "Agile" "next-generation" "cutting-edge" "DevSecOps" "visionary"
 "customized" "ubiquitous" "SOC2" "collaborative" "NIST" "holistic" "disruptive")
 
 ARRAY3=("synergies" "machine learning" "paradigms" "markets" "penetration testing" "infrastructures" "platforms"
-"initiatives" "channels" "vulnerabilities" "communities" "ROI" "solutions" "persistent threat models" "kubernetes" "action-items"
-"portals" "niches" "technologies" "content" "DevOps" "pipelines" "convergence" "relationships" "data lakes"
-"architectures" "interfaces" "cloud" "systems" "bandwidth" "blast radius" "models"
+"initiatives" "channels" "vulnerabilities" "communities" "2FA" "solutions" "persistent threat models" "kubernetes" "action-items"
+"portals" "niches" "technologies" "content" "DevOps" "pipelines" "convergence" "relationships" "data lakes" "APIs"
+"architectures" "interfaces" "cloud" "IoT" "systems" "bandwidth" "blast radius" "Infrastructure-as-Code" "models" "containers" "analytics"
 "mindshare" "deliverables" "users" "schemas" "networks" "applications" "metrics" "e-business" "functionalities"
-"experiences" "microservices" "service meshes" "methodologies")
+"experiences" "microservices" "service meshes" "methodologies" "avocados")
 
 INDEX1=$[ RANDOM % ${#ARRAY1[@]} ]
 INDEX2=$[ RANDOM % ${#ARRAY2[@]} ]
